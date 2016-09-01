@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to read my stuff
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a data scientist and my passion is using data to make real impact in the world.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### education
 
-What else do you need?
+- undergraduate at University of Toronto (pharmacology)
+- MSc at University of Toronto (molecular genetics and bioinformatics) 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### more to come later
+I'll fill this in later if I feel like sharing more about myself.
