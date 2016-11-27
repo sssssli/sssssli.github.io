@@ -7,13 +7,13 @@ subtitle: Why you'd want to read my stuff
 I'm a data scientist and my passion is using data to make real impact in the world.
 
 * [work](#work)
-
+* [education](#education)
 
 ### work
 
 - data scientist at Capital One
 
-### education
+### <a name="education"></a>education
 
 - undergraduate at University of Toronto (pharmacology)
 - MSc at University of Toronto (molecular genetics and bioinformatics)
