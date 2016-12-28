@@ -18,6 +18,8 @@ I'm a data scientist and my passion is using data to make real impact in the wor
 
 ### publications
 
+0. ![Master's thesis]({{ site.url }}/img/Li-thesis-2014.pdf)
+
 1. [Pooled‐matrix protein interaction screens using Barcode Fusion Genetics](http://msb.embopress.org/content/12/4/863). 2016. *Molecular Systems Biology.* Nozomu Yachie, Evangelia Petsalaki, Joseph C Mellor, Jochen Weile, Yves Jacob, Marta Verby, Sedide B Ozturk, **Siyang Li**, Atina G Cote, Roberto Mosca, Jennifer J Knapp, Minjeong Ko, Analyn Yu, Marinella Gebbia, Nidhi Sahni, Song Yi, Tanya Tyagi, Dayag Sheykhkarimli, Jonathan F Roth, Cassandra Wong, Louai Musa, Jamie Snider, Yi‐Chun Liu, Haiyuan Yu, Pascal Braun, Igor Stagljar, Tong Hao, Michael A Calderwood, Laurence Pelletier, Patrick Aloy, David E Hill, Marc Vidal, and Frederick P Roth.
 
 2. [Large-scale identification and analysis of suppressive drug interactions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281482/). 2014. *Chemistry and Biology.* Murat Cokol, Zohar B. Weinstein, Kaan Yilancioglu, Murat Tasan, Allison Doak, Dilay Cansever, Beste Mutlu, **Siyang Li**, Raul Rodriguez-Esteban, Murodzhon Akhmedov, Aysegul Guvenek, Melike Cokol, Selim Cetiner, Guri Giaever, Ivan Iossifov, Corey Nislow, Brian Shoichet, and Frederick P. Roth.
